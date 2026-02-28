@@ -1,0 +1,6 @@
+purple/hmf_resources/*
+!purple/hmf_resources/.gitkeep
+
+purple/Wilms_hmf_resources/*
+!purple/Wilms_hmf_resources/.gitkeep
+!purple/Wilms_hmf_resources/download_hmf_ressources_37.sh
